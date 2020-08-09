@@ -1,0 +1,100 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Groonga",
+      "type": "mob",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groonga"
+    },
+    {
+      "name": "Groongaloot",
+      "type": "loottable",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groongaloot"
+    },
+    {
+      "name": "Groongaland",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groongaland"
+    },
+    {
+      "name": "Snorkblatz",
+      "type": "tool",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snorkblatz"
+    },
+    {
+      "name": "Groongamen",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "groongamen"
+    },
+    {
+      "name": "DiamondArmor",
+      "type": "function",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_armor"
+    },
+    {
+      "name": "RedGroonga",
+      "type": "mob",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_groonga"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.spawn_egg.entity.kirch_experiments:groonga.name": "Groonga Spawn Egg",
+      "item.kirch_experiments:snorkblatz.name": "Snorkblatz",
+      "item.spawn_egg.entity.groonga:groongamen.name": "Groongamen Spawn Egg",
+      "item.groonga:snorkblatz.name": "Snorkblatz",
+      "item.spawn_egg.entity.groonga:groonga.name": "Groonga Spawn Egg",
+      "item.spawn_egg.entity.groonga:red_groonga.name": "Groonga Spawn Egg"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "groonga",
+    "modName": "Groongas",
+    "version": "1.0.0",
+    "description": "First experiment with MCreator",
+    "author": "JKirchartz, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "other_texture",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.14.x",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.kirchexperiments",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

@@ -1,0 +1,9 @@
+{
+  "_fv": 10,
+  "_type": "function",
+  "definition": {
+    "code": "# Enter the function code here\ngive @s diamond_boots\ngive @s diamond_sword\ngive @s diamond_pickaxe\ngive @s diamond_helmet\ngive @s diamond_shovel\ngive @s diamond_axe\ngive @s emerald_block 64\ngive @s diamond_block 64",
+    "name": "treasure",
+    "namespace": "mod"
+  }
+}

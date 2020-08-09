@@ -1,0 +1,47 @@
+{
+  "format_version": "1.13",
+  "minecraft:biome": {
+    "description": {
+      "identifier": "groongaland"
+    },
+    "components": {
+      "minecraft:climate": {
+        "downfall": 0.4,
+        "snow_accumulation": [
+          0.0,
+          0.25
+        ],
+        "temperature": 0.5
+      },
+      "minecraft:overworld_height": {
+        "noise_type": "extreme"
+      },
+      "minecraft:overworld_surface": {
+        "floor_depth": 24,
+        "top_material": "minecraft:grass",
+        "mid_material": "minecraft:dirt",
+        "data": 1,
+        "floor_material": "minecraft:dirt",
+        "foundation_material": "minecraft:stone"
+      },
+      "minecraft:world_generation_rules": {
+        "generate_for_climates": [
+          [
+            "warm",
+            1
+          ]
+        ],
+        "hills_transformation": [
+          [
+            "forest",
+            5
+          ]
+        ]
+      },
+      "animal": {},
+      "monster": {},
+      "overworld": {},
+      "groongaland": {}
+    }
+  }
+}

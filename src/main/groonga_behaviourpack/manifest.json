@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "First experiment with MCreator",
+    "name": "Groongas",
+    "uuid": "2e9b9ed3-3cf7-36a5-adce-3c2f1f401555",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      14,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "First experiment with MCreator",
+      "type": "data",
+      "uuid": "baccf262-ed25-30fb-b106-28cccdaebc1b",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "4fa5a5b4-dc6d-36f7-a1eb-ad3d2ff4d1ad",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "JKirchartz, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}
